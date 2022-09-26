@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahnawaz Hussain</h1>
 <h3 align="center">A passionate Full Stack Developer from Bihar.</h3>
-<img src="https://user-images.githubusercontent.com/101489367/191103936-2959e6b1-f1d4-4fbe-9dd5-e9ee92e18799.png"  alt="profile" />
 
-
+<img src="https://user-images.githubusercontent.com/101489367/192368824-baa4c5d8-9c07-4392-976f-dc78453f85fc.gif" alt="sahnawaz" />
 
 
 <p align="left"> <a href="https://twitter.com/sahnawazhu" target="blank"><img src="https://img.shields.io/twitter/follow/sahnawazhu?logo=twitter&style=for-the-badge" alt="sahnawazhu" /></a> </p>
