@@ -26,9 +26,7 @@
 
 <p display="block" align="left" ><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sahnawaz7hussain&" alt="sahnawaz7hussain" /></p>
 
-
-
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sahnawaz7hussain&bg_color=01000a&color=6d5f6c&line=703e6c&point=b62b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
