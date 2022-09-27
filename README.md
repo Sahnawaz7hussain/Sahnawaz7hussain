@@ -24,7 +24,7 @@
 </p>
 
 
-
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnawaz7hussain&show_icons=true&locale=en&layout=compact" alt="sahnawaz7hussain" /></p>
 <p align="center" >&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=sahnawaz7hussain&show_icons=true&locale=en" alt="sahnawaz7hussain" /></p>
 
 
