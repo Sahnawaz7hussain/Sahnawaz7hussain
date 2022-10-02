@@ -9,13 +9,13 @@
 - 🌱 Happily learning **Reactjs,Nodejs,MongoDB,Expressjs**
 
 - 👨‍💻 Find more about me: <a href="https://sahnawaz7hussain.github.io" target="_blank" >Portfolio</a>
--  [https://sahnawaz7hussain.github.io](https://sahnawaz7hussain.github.io)
+
 
 - 💬 Love to explore  **WEB Development**
 
 - 📫 Email **sahnawazhussain852@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1CaY6ZsksMiWr2RmU8btQgfQ0-SOcFrAg/view?usp=sharing](https://drive.google.com/file/d/1CaY6ZsksMiWr2RmU8btQgfQ0-SOcFrAg/view?usp=sharing)
+- 📄 Resume: https://drive.google.com/file/d/1CaY6ZsksMiWr2RmU8btQgfQ0-SOcFrAg/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahnawazhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahnawazhu" height="30" width="40" /></a>
