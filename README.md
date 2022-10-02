@@ -15,7 +15,7 @@
 
 - 📫 Email **sahnawazhussain852@gmail.com**
 
-- 📄 Find my resume: <a target="_blank" href="https://drive.google.com/file/d/1CaY6ZsksMiWr2RmU8btQgfQ0-SOcFrAg/view?usp=sharing">Resume</a>
+- 📄 Find my  <a target="_blank" href="https://drive.google.com/file/d/1CaY6ZsksMiWr2RmU8btQgfQ0-SOcFrAg/view?usp=sharing">Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahnawazhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahnawazhu" height="30" width="40" /></a>
@@ -26,13 +26,19 @@
 <h2 align="center">📊 My Github Stats<h2>
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnawaz7hussain&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahnawaz7hussain" /></p>
-<p align="center" >&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=sahnawaz7hussain&show_icons=true&locale=en&theme=radical" alt="sahnawaz7hussain" /></p>
-
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahnawaz7hussain&theme=radical" alt="sahnawaz7hussain" /></p>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sahnawaz7hussain&bg_color=01000a&color=6d5f6c&line=703e6c&point=b62b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <div  >  
+&nbsp;<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=sahnawaz7hussain&show_icons=true&locale=en&theme=radical" alt="sahnawaz7hussain" />
+<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahnawaz7hussain&theme=radical" alt="sahnawaz7hussain" />
+</div>
+  <br >
+  <br>
+  <br>
+ <div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C21FF7&width=435&lines=My+Contribution+Graph!" alt="Typing SVG" /></a></div>
+<div >
+<img width="auto" src="https://activity-graph.herokuapp.com/graph?username=Sahnawaz7hussain&bg_color=01000a&color=6d5f6c&line=703e6c&point=b62b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="contributions_graph" />
+  </div>
 
 
 
