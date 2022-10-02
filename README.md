@@ -25,11 +25,11 @@
 <h2 align="center">📊 My Github Stats<h2>
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnawaz7hussain&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahnawaz7hussain" /></p>
-<p align="center" >&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=sahnawaz7hussain&show_icons=true&locale=en" alt="sahnawaz7hussain" /></p>
+<p align="center" >&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=sahnawaz7hussain&show_icons=true&locale=en&theme=radical" alt="sahnawaz7hussain" /></p>
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahnawaz7hussain&theme=red" alt="sahnawaz7hussain" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahnawaz7hussain&theme=radical" alt="sahnawaz7hussain" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sahnawaz7hussain&bg_color=01000a&color=6d5f6c&line=703e6c&point=b62b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
