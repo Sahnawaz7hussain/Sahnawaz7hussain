@@ -8,7 +8,8 @@
 
 - 🌱 Happily learning **Reactjs,Nodejs,MongoDB,Expressjs**
 
-- 👨‍💻 Portfolio [https://sahnawaz7hussain.github.io](https://sahnawaz7hussain.github.io)
+- 👨‍💻 Find more about me: <a href="https://sahnawaz7hussain.github.io" target="_blank" >Portfolio</a>
+-  [https://sahnawaz7hussain.github.io](https://sahnawaz7hussain.github.io)
 
 - 💬 Love to explore  **WEB Development**
 
