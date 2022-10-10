@@ -31,9 +31,7 @@
 &nbsp;<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=sahnawaz7hussain&show_icons=true&locale=en&theme=radical" alt="sahnawaz7hussain" />
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahnawaz7hussain&theme=radical" alt="sahnawaz7hussain" />
 </div>
-  <br >
-  <br>
-  <br>
+ 
  <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C21FF7&width=435&lines=My+Contribution+Graph!" alt="Typing SVG" /></a></div>
 <div >
