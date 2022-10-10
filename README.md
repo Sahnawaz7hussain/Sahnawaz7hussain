@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 Nice to Meet You, This is Sahnawaz Hussain</h1>
+<h1 align="center">Hey there! 👋 Nice to Meet You, This is Sahnawaz Hussain</h1>
 <h3 align="center">A passionate Full Stack Developer from Bihar.</h3>
 
 <img src="https://user-images.githubusercontent.com/101489367/192368824-baa4c5d8-9c07-4392-976f-dc78453f85fc.gif" alt="sahnawaz" />
