@@ -23,7 +23,7 @@
 <a href="https://codesandbox.com/sahnawaz7hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sahnawaz7hussain" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sahnawazhussain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sahnawazhussain1" height="30" width="40" /></a>
 </p>
-<h2 align="center">📊 My Github Stats<h2>
+<h2 align="center"> 📊 My Github Stats<h2>
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnawaz7hussain&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahnawaz7hussain" /></p>
   
