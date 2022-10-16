@@ -16,6 +16,7 @@
 - 📫 Email **sahnawazhussain852@gmail.com**
 
 - 📄 Find my  <a target="_blank" href="https://drive.google.com/file/d/1CaY6ZsksMiWr2RmU8btQgfQ0-SOcFrAg/view?usp=sharing">Resume</a>
+- Find my <a target="_blank" href="https://leetcode.com/Sahnawaz7hussain/" >Leetcode</a> account.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahnawazhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahnawazhu" height="30" width="40" /></a>
