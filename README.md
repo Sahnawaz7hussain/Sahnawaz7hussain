@@ -35,7 +35,10 @@
  
  <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C21FF7&width=435&lines=My+Contribution+Graph!" alt="Typing SVG" /></a></div>
-<div ><img width="auto" src="https://activity-graph.herokuapp.com/graph?username=Sahnawaz7hussain&bg_color=01000a&color=6d5f6c&line=703e6c&point=b62b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="contributions_graph" /></div>
+  <div >
+  <img width="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahnawaz7hussain&theme=tokyonight" alt="contributions_graph" />
+     <!-- <img width="auto" src="https://activity-graph.herokuapp.com/graph?username=Sahnawaz7hussain&bg_color=01000a&color=6d5f6c&line=703e6c&point=b62b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="contributions_graph" /> -->
+  </div>
 
 
 <!-----------------------graph--------------->
