@@ -37,7 +37,7 @@
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnawaz7hussain&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahnawaz7hussain" /></p>
   
   <div  >  
-&nbsp;<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=sahnawaz7hussain&show_icons=true&locale=en&theme=radical" alt="sahnawaz7hussain" />
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=sahnawaz7hussain&show_icons=true&locale=en&theme=radical" alt="sahnawaz7hussain" />
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahnawaz7hussain&theme=radical" alt="sahnawaz7hussain" />
 </div>
  
