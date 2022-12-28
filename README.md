@@ -15,7 +15,7 @@
 
 - 📫 Email **sahnawazhussain852@gmail.com**
 
-- 📃Find my <a target="_blank" href="https://drive.google.com/file/d/1RCx4lyd-eihb1IJCj8_fnTv37lUvlygS/view?usp=sharing" >Resume</a>
+- 📃Find my <a target="_blank" href="https://drive.google.com/file/d/1BWoSLBpHKFxYBiQAKRW2U7Z5fFSWVzHN/view?usp=sharing" >Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahnawazhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahnawazhu" height="30" width="40" /></a>
