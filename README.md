@@ -32,8 +32,11 @@
 </div> -->
 
 <h2 align="center"> 📊 My Github Stats<h2>
-
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnawaz7hussain&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahnawaz7hussain" /></p>
+<!-- 
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnawaz7hussain&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahnawaz7hussain" /></p> -->
+  
+<p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahnawaz7hussain&theme=radical" alt="sahnawaz7hussain" /></p> 
+<!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahnawaz7hussain&theme=radical) -->
   
 <!--   <div>   -->
 <p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=sahnawaz7hussain&show_icons=true&locale=en&theme=radical" alt="sahnawaz7hussain" /></p>
