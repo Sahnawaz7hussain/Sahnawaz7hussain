@@ -26,6 +26,7 @@
 <img alt="followers count" src="https://custom-icon-badges.herokuapp.com/github/followers/sahnawaz7hussain?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 <img alt="stars count" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sahnawaz7hussain"/>
 </div>
+ 
 
 <!-- <div align="center">
 <a href="https://wakatime.com/@2fc99edb-7b44-4c2d-9d7b-35326eca8ec0"><img src="https://wakatime.com/badge/user/2fc99edb-7b44-4c2d-9d7b-35326eca8ec0.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
@@ -73,6 +74,6 @@
   <code>Refresh the page for a new joke</code>
 </p>
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
