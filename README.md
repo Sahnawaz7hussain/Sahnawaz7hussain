@@ -66,7 +66,7 @@
  <!-- Funny Random Joke -->
 
 <div align="center">
-  <h3>Now laughing time with random developer jokes😊.</h3>
+  <h3>Now laughing time with random developers joke😊.</h3>
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 <p align="center">
