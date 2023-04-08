@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/101489367/192368824-baa4c5d8-9c07-4392-976f-dc78453f85fc.gif" alt="sahnawaz" />
  
- - 🌷 Learning Next.js
+ - 🌷 Learning `Next.js`
 - 🌱 Happily working with **Reactjs,Nodejs,MongoDB,Expressjs**
 - 🎈 Love to explore  **New web features and tools**
 - 📫 Email **sahnawazhussain852@gmail.com**
