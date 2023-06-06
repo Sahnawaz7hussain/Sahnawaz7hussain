@@ -11,7 +11,7 @@
 - 📃My <a target="_blank" href="https://drive.google.com/file/d/1BWoSLBpHKFxYBiQAKRW2U7Z5fFSWVzHN/view?usp=sharing" >`Resume`</a>
 - 5⭐ at hackerrank : → <a href="https://www.hackerrank.com/sahnawazhussain1" target="blank"><img width="25px" height="25px" align="center" src="https://user-images.githubusercontent.com/101489367/210836601-9bc298e2-5271-47db-a875-f1f9ac4c10c1.png" alt="@sahnawazhussain1" /></a>
 - love to solve problems on leetcode : → <a href="https://www.leetcode.com/sahnawaz7hussain" target="blank"><img height="25px" width="25px" align="center" src="https://user-images.githubusercontent.com/101489367/210837414-a3ea9a7d-bf51-4733-b792-2bd21837686c.png" alt="sahnawaz7hussain" /></a>
-- I'm also active on LinkedIn : → <a href="https://linkedin.com/in/sahnawaz hussain" target="_blank"><img width="25px" height="25px" align="center" src="https://user-images.githubusercontent.com/101489367/210836208-09d25ede-1523-4dce-9efd-d6db511cbf22.png" alt="sahnawaz hussain" /></a>
+- I'm also active on LinkedIn : → <a href="https://www.linkedin.com/in/sahnawaz7hussain" target="_blank"><img width="25px" height="25px" align="center" src="https://user-images.githubusercontent.com/101489367/210836208-09d25ede-1523-4dce-9efd-d6db511cbf22.png" alt="sahnawaz hussain" /></a>
 
 <!-- # 💬 Connect:
 
